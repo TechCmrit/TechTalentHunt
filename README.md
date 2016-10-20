@@ -1,6 +1,6 @@
 # TechTalentHunt
 
-Privided format should be mailed to given mail id.
+Privided format should be mailed to given mail id " techcmrit@gmail.com ".
 All Fields are IMPORTANT !
 
 Catagories :
